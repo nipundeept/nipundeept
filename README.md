@@ -1,15 +1,9 @@
 <div align="center">
 
 <!-- Cyberpunk Header -->
-```
-██████████████████████████████████████████████████████████
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█  SYSTEM BOOT... IDENTITY LOADED: NIPUN DEEPT           █
-█  ROLE: SYSTEMS ARCHITECT // BACKEND ENGINEER           █
-█  STATUS: [■■■■■■■■■■] ONLINE                          █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-██████████████████████████████████████████████████████████
-```
+<div align="center">
+  <img src="header.svg" alt="Animated Terminal Header" width="100%" />
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+Initializing+systems...;%3E+Loading+low-level+modules...;%3E+Backend+Engineering+%E2%9C%94;%3E+Systems+Architecture+%E2%9C%94;%3E+Memory+Management+%E2%9C%94;%3E+Access+granted.+Welcome." alt="Typing SVG" />
@@ -38,12 +32,13 @@ typedef struct Engineer {
    I talk to the metal. */
 ```
 
-**🧠 Learning:** Data Structures & Algorithms, Computer Systems, and Software Engineering fundamentals
-**⚡ Interests:** Memory management, problem solving, and understanding how computers work
+```md
+🧠 Learning: Data Structures & Algorithms, Computer Systems, and Software Engineering fundamentals
+⚡ Interests: Memory management, problem solving, and understanding how computers work
+🔍 Exploring: C programming, backend development, and open-source software
+🤝 Open to: Learning opportunities, collaborations, meaningful projects
+```
 
-**🔍 Exploring:** C programming, backend development, and open-source software
-
-**🤝 Open to:** Learning opportunities, collaborations, and challenging projects
 
 ---
 
