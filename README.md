@@ -35,7 +35,7 @@ typedef struct Engineer {
 ```md
 🧠 Learning: Data Structures & Algorithms, Computer Systems, and Software Engineering fundamentals
 ⚡ Interests: Memory management, problem solving, and understanding how computers work
-🔍 Exploring: C programming, backend development, and open-source software
+🔍 Exploring: Backend development, and open-source software
 🤝 Open to: Learning opportunities, collaborations, meaningful projects
 ```
 
@@ -77,8 +77,6 @@ typedef struct Engineer {
 │  State Mgmt :  Custom Finite State Machine (FSM)        │
 └─────────────────────────────────────────────────────────┘
 ```
-
-> *"Not a game. A systems study — disguised as a game."*
 
 ---
 
