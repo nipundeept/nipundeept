@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%" height="180">
+  <style>
+    /* Base styling and colors */
+    .bg { fill: #050a0e; stroke: #1a2f42; stroke-width: 2; rx: 8; }
+    .text { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #c8d8e4; }
+    .prompt { fill: #00FF9C; }
+    .accent { fill: #FF6B35; }
+    .blue { fill: #00CFFF; }
+    .dim { fill: #5a7a8a; }
+    
+    /* Blinking Cursor Animation */
+    .cursor { fill: #00FF9C; animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    
+    /* Staggered Typing Animation */
+    .type-1, .type-2, .type-3 { opacity: 0; animation: type 0.1s forwards; }
+    .type-1 { animation-delay: 0.4s; }
+    .type-2 { animation-delay: 1.2s; }
+    .type-3 { animation-delay: 2.0s; }
+    @keyframes type { to { opacity: 1; } }
+  </style>
+
+  <rect x="2" y="2" width="846" height="176" class="bg"/>
+
+  <circle cx="25" cy="25" r="6" fill="#FF2D55"/>
+  <circle cx="45" cy="25" r="6" fill="#FFBD2E"/>
+  <circle cx="65" cy="25" r="6" fill="#27C93F"/>
+  <text x="85" y="29" font-family="'Courier New', monospace" font-size="12" class="dim">boot_sequence.sh</text>
+  <line x1="2" y1="45" x2="848" y2="45" stroke="#1a2f42" stroke-width="2"/>
+
+  <g class="type-1">
+    <text x="25" y="80" class="text"><tspan class="prompt">nipun@jssstu:~$</tspan> ./init_profile --user "Nipun Deept"</text>
+  </g>
+  
+  <g class="type-2">
+    <text x="25" y="115" class="text">> SYSTEM BOOT... IDENTITY LOADED: <tspan class="blue">[NIPUN DEEPT]</tspan></text>
+  </g>
+  
+  <g class="type-3">
+    <text x="25" y="150" class="text">> ROLE: <tspan class="accent">SYSTEMS ARCHITECT // BACKEND ENGINEER</tspan></text>
+    <text x="510" y="150" class="text">> STATUS: <tspan class="prompt">[████████]</tspan> ONLINE</text>
+    <rect x="765" y="136" width="10" height="16" class="cursor"/>
+  </g>
+</svg>
