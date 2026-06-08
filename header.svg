@@ -37,8 +37,7 @@
   </g>
   
   <g class="type-3">
-    <text x="25" y="150" class="text">> ROLE: <tspan class="accent">SYSTEMS ARCHITECT // BACKEND ENGINEER</tspan></text>
-    <text x="510" y="150" class="text">> STATUS: <tspan class="prompt">[████████]</tspan> ONLINE</text>
-    <rect x="765" y="136" width="10" height="16" class="cursor"/>
+    <text x="25" y="150" class="text">> STATUS: <tspan class="prompt">[████████]</tspan> ONLINE</text>
+    <rect x="295" y="136" width="10" height="16" class="cursor"/>
   </g>
 </svg>
