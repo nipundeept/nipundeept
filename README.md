@@ -27,56 +27,35 @@ typedef struct Engineer {
     bool   loves_memory_management = true;
     int    current_year = 1;
 } Engineer;
-
-/* I bypass the high-level noise.
-   I talk to the metal. */
 ```
 
-```md
+```
 🧠 Learning: Data Structures & Algorithms, Computer Systems, and Software Engineering fundamentals
 ⚡ Interests: Memory management, problem solving, and understanding how computers work
 🔍 Exploring: Backend development, and open-source software
 🤝 Open to: Learning opportunities, collaborations, meaningful projects
 ```
-
-
 ---
 
 ## `> cat tech_stack.cfg`
 
 **[ LANGUAGES ]**
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 **[ INFRASTRUCTURE & TOOLS ]**
 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black.svg?style=for-the-badge&logo=clion&logoColor=white)
-
----
-
-## `> ls -la ./projects`
-
-### ⚙️ ModularPong — *Custom 2D Game Engine*
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  ENGINE SPECS                                           │
-│  ─────────────────────────────────────────────────────  │
-│  Language   :  C11 (zero abstraction, raw metal)        │
-│  Renderer   :  Raylib                                   │
-│  Build Sys  :  CMake                                    │
-│  Loop       :  Hard-coded 60 FPS continuous game loop   │
-│  Physics    :  Algorithmic Circle-to-Rectangle AABB     │
-│  AI         :  Reactive math-based CPU opponent         │
-│  State Mgmt :  Custom Finite State Machine (FSM)        │
-└─────────────────────────────────────────────────────────┘
-```
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
 
@@ -128,6 +107,12 @@ PINGING nipundeept... connection established.
 &nbsp;
 <a href="https://leetcode.com/u/nipundeept/">
   <img src="https://img.shields.io/badge/LEETCODE-nipundeept-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/nipundeept/">
+  <img src="https://img.shields.io/badge/LINKEDIN-nipundeept-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/nipundeept">
+  <img src="https://img.shields.io/badge/INSTAGRAM-nipundeept-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
